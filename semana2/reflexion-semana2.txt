@@ -1,0 +1,13 @@
+Dominar la terminal es fundamental para un desarrollador porque otorga una velocidad y precision 
+que la interfaz grafica no puede igualar, permitiendo gestionar estructuras 
+de archivos complejas con siḿples comandos de texto. Esta habilidad facilita la 
+automatizacion de tareas repetitivas mediante scripts, lo que ahorra tiempo
+valioso y reduce el error humano en la organizacion de proyectos. Ademas, la mayoria de
+las herramientas profesionales, como Git para el control de versiones o los 
+gestores de dependencias, operan de forma nativa o mas eficiente desde la linea
+de comandos. En entornos de servidores o despliegues en la nube, la terminal
+suele ser la unica via de acceso disponible, convirtiendose en una herramienta 
+indispensable para el diagnostico y mantenimiento. En definitiva, saber navegar por
+la consola profesionaliza el flujo de trabajo y permite un control total sobre el
+ecosistema del software.
+

@@ -1,0 +1,14 @@
+mkdir semana2
+pwd
+ls
+touch preguntas-semena2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+nano preguntas-semena2.txt
+nano reflexion-semana2.txt
+nano comandos-terminal.txt
+cd 
+git add .
+git commit -n "actividad semana2"
+git puch
+
