@@ -1,0 +1,11 @@
+En el desarrollo de software es muy importante mantener un registro de cambios
+usando herramientas como Git. Esto permite guardar el avance del proyecto y tener un historial
+de todas las modificaciones realizadas. Ademas, ayuda a identificar errores y volver a versiones
+anterores si ocurre algun problema. Git tambien facilita el trabajo en equipo, ya que
+varias personas pueden colaborar en un mismo proyecto. Cada integrante puede realizar
+cambios sin afectar directamente el trabajo de los demas. Otra ventaja es que permite
+organizar mejor el proyecto y llevar un contyrol de las actualizaciones.
+Los commits ayudan a documentar que cambios se hicieron y por que se realizaron. Tambien 
+brinda mayor seguridad, porque evita la perdida de informacion importante. Por estas razones,
+Git se ha converido en unha herramienta fundamental para los desarrolladores de 
+software.
