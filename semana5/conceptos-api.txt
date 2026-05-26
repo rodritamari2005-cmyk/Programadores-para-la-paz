@@ -1,0 +1,5 @@
+La ruta POST /reporte permite recibir datos enviados desde el cliente al servidor.
+
+En este caso, recibe un mensaje enviado en el cuerpo de la petición y lo devuelve como respuesta en formato JSON.
+
+Esta ruta podría servir en una comunidad para enviar reportes de problemas, alertas o solicitudes de ayuda de manera organizada y estructurada.
